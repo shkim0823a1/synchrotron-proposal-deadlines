@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Synchrotron Proposal Deadlines//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Synchrotron Proposal Deadlines
+BEGIN:VEVENT
+SUMMARY:[Time not specified] SSRL X-ray/VUV Beam Time Requests
+DTSTART;VALUE=DATE:20261015
+DTSTAMP:20261015T054039Z
+UID:event-33662@synchrotron-deadlines
+DESCRIPTION:Local deadline date: 2026-10-15\nTime not specified\nTimezone:
+  America/Los_Angeles\nSource: https://lightsources.org/event/ssrl-x-ray-vu
+ v-beam-time-requests/
+URL:https://lightsources.org/event/ssrl-x-ray-vuv-beam-time-requests/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APS 2027-1 Proposal Call
+DTSTART;TZID=Asia/Seoul:20261022T040000
+DTSTAMP:20261015T054039Z
+UID:event-33718@synchrotron-deadlines
+DESCRIPTION:Local deadline: 2026-10-21T14:00:00-05:00\nKST: 2026-10-22T04:
+ 00:00+09:00\nSource: https://lightsources.org/event/aps-2027-1-proposal-ca
+ ll/
+URL:https://lightsources.org/event/aps-2027-1-proposal-call/
+END:VEVENT
+END:VCALENDAR
